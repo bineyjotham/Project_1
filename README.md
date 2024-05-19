@@ -2,7 +2,7 @@ Project_1 README
 
 Overview
 
-Project_1 is a website that manages a list of products, including their creation date and prices.
+Project_1 is a website that manages a list of products, including their creation date and prices.It has three subfolders namely: bad , better and junk resources. The bad holds code that of repeatitive functionalities increasing the number of code lines. The better folder hiolds code that is of concise order limiting the number of code lines. The junk resources holds code of little value
 
 Getting Started
 
